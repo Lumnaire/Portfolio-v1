@@ -1,0 +1,13 @@
+.projects{
+  display: grid;
+  grid-template-columns: 2fr ;
+  margin-top: 20px;
+  
+}
+.projects-img{
+  width: 700px;
+  height: 400px;
+  margin: 0px auto;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px  rgba(0,0,0,.5);
+}

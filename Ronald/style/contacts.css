@@ -1,0 +1,29 @@
+
+.contacts-card{
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
+  border-width: 3px;
+  height: 300px;
+  width: 500px;
+  margin: 0px auto;
+  border-radius: 10px;
+}
+.contacts-img{
+  width: 50px;
+  border-radius: 50px;
+}
+.contacts-flex{
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.row{
+  display: flex;
+  align-items: center;
+  line-height: 80px;
+  margin-left: 20px;
+}
+
+.contact-account-info{
+  margin-left: 20px;
+  font-size: 18px;
+}
